@@ -15,7 +15,8 @@ ABaseChar::ABaseChar()
 void ABaseChar::BeginPlay()
 {
 	Super::BeginPlay();
-	//Tlqkf
+	//Tlqkf]
+	//asd	
 	
 }
 
