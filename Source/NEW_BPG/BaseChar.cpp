@@ -18,6 +18,7 @@ void ABaseChar::BeginPlay()
 	//Tlqkf]
 	//asd
 	//
+	///
 	
 }
 
