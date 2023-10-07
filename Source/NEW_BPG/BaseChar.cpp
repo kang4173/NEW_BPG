@@ -17,6 +17,7 @@ void ABaseChar::BeginPlay()
 	Super::BeginPlay();
 	//YESasd
 
+
 }
 
 // Called every frame
